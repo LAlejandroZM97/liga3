@@ -1,5 +1,6 @@
 <?php
  echo "Hola soy Luis Alejandro Zuñiga Muñoz";
+ echo "editado para probar programa de la computadora";
  // Cargamos LIGA3
  require_once 'LIGA3/LIGA.php';
  
